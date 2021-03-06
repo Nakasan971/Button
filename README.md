@@ -10,7 +10,7 @@ Unity Hub 2.4.2
 Unity     3.14f1
 
 # Contents
-AudioManager.cs     Voice　controll
+AudioManager.cs     Voice　controll <br>
 ButtonScript.cs　　　For Performance
 EventManager.cs　   Overall management
 GimmickScript.cs　　In-game features
