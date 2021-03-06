@@ -10,17 +10,17 @@ Unity Hub 2.4.2 <br>
 Unity     3.14f1 <br>
 
 # Contents
-AudioManager.cs     Voice　controll <br>
-ButtonScript.cs　　　For Performance <br>
-EventManager.cs　   Overall management <br>
-GimmickScript.cs　　In-game features <br>
-LightingScript.cs　 For Performance <br>
-NeedleScript.cs　   For Performance <br>
-PanelController.cs　Fade function <br>
-ScenePicker.cs　    Scene switching function <br>
-TextManeger.cs　    Controlling the text to be displayed <br>
+AudioManager.cs    Voice　controll <br>
+ButtonScript.cs    For Performance <br>
+EventManager.cs    Overall management <br>
+GimmickScript.cs   In-game features <br>
+LightingScript.cs  For Performance <br>
+NeedleScript.csFor Performance <br>
+PanelController.cs Fade function <br>
+ScenePicker.cs     Scene switching function <br>
+TextManeger.cs     Controlling the text to be displayed <br>
  <br>
-ScenePickerEditor.cs　Custom Editors <br>
+ScenePickerEditor.cs Custom Editors <br>
 
 # Note
 ＜！To use TextManager and GimmickScript, you need an external file in text format.＞
